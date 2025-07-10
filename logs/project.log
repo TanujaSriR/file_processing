@@ -1,0 +1,18 @@
+2025-07-10 14:55:16,786 — ERROR — Usage: python main.py <input_file_path> <output_format>
+2025-07-10 14:55:45,879 — ERROR — Usage: python main.py <input_file_path> <output_format>
+2025-07-10 14:58:59,015 — ERROR — Usage: python main.py <input_file_path> <output_format>
+2025-07-10 14:59:47,439 — INFO — Reading file: data/input/sample.csv
+2025-07-10 15:00:08,471 — INFO — Reading file: data/data/input/sample.csv
+2025-07-10 15:00:08,501 — INFO — Cleaning data
+2025-07-10 15:00:08,507 — INFO — Saving cleaned file to: data/data/output/sample_cleaned.parquet
+2025-07-10 15:05:48,845 — INFO — Reading file: data/input_files/sample.csv
+2025-07-10 15:05:48,857 — INFO — Cleaning data
+2025-07-10 15:05:48,861 — INFO — Saving cleaned file to: data/output_files/sample_cleaned.parquet
+2025-07-10 15:07:26,950 — INFO — Reading file: data/input_files/sample.csv
+2025-07-10 15:07:26,965 — INFO — Cleaning data
+2025-07-10 15:07:26,969 — INFO — Saving cleaned file to: data/output_files/sample_cleaned.parquet
+2025-07-10 15:07:28,070 — INFO — File processed successfully.
+2025-07-10 15:09:48,945 — INFO — Reading file: data/input_files/titanic.parquet
+2025-07-10 15:09:51,350 — INFO — Cleaning data
+2025-07-10 15:09:51,376 — INFO — Saving cleaned file to: data/output_files/titanic_cleaned.csv
+2025-07-10 15:09:51,435 — INFO — File processed successfully.
